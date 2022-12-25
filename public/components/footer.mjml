@@ -1,0 +1,38 @@
+<mj-raw>
+    <!-- footer -->
+</mj-raw>
+<mj-section padding="0">
+        <mj-group css-class="icon-size">
+            <mj-column padding="0">
+                <mj-image padding="0 5px" width="27px" height="27px" src="https://i.postimg.cc/mr3rzKDN/fb.png" alt="" />
+            </mj-column>
+            <mj-column padding="0">
+                <mj-image padding="0 5px" width="27px" height="27px" src="https://i.postimg.cc/L554WXVN/tw.png" alt="" />
+            </mj-column>
+            <mj-column padding="0">
+                <mj-image padding="0 5px" width="27px" height="27px" src="https://i.postimg.cc/Z5pb2Xrt/yt.png" alt="" />
+            </mj-column>
+            <mj-column padding="0">
+                <mj-image padding="0 5px" width="27px" height="27px" src="https://i.postimg.cc/gJY2v4L9/insta.png" alt="" />
+            </mj-column>
+        </mj-group>
+    </mj-section>
+    <mj-section>
+        <mj-column>
+            <mj-text align="center" line-height="15px" font-size="11px" font-family="system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Helvetica,Arial,sans-serif;color:#888888">
+                Apple TV+ requires a subscription. <br>
+                The Apple TV app is available on iOS 12.3 or later, Apple TV 4K or Apple TV HD with tvOS 12.3 or later, Apple TV (3rd generation) with Apple TV Software Update 7.3 or later, macOS Catalina or later, and on eligible smart TVs and streaming devices. <br><br>
+                Some content requires specific hardware or software. Internet access required; data fees may apply. Content prices and availability are subject to change. Purchase may be required.<br> <br>
+                Si ce courriel d’Apple ne vous a pas été envoyé dans la langue de votre choix, veuillez cliquez ici.<br><br>
+                All rights reserved. Apple Canada Inc. 120 Bremner Boulevard, Suite 1600, Toronto, ON M5J 0A8. TM and © 2022 Apple Inc.
+            </mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0 60px">
+            <mj-column padding="0">
+                <mj-text font-size="10px" align="center">
+                <a href="#" class="footer-links">Privacy policy</a> | <a href="#" class="footer-links">Terms & conditions</a> | <a href="#" class="footer-links"> Support</a> | <a href="#" class="footer-links"> Account</a> | <a href="#" class="footer-links"> Subscribe</a> | <a href="#" class="footer-links"> Unsubscribe</a>
+                    
+                </mj-text>
+            </mj-column>
+        </mj-section>

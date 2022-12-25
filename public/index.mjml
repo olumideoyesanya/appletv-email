@@ -1,0 +1,130 @@
+<mjml>
+<mj-head>
+<mj-style>
+    .footer-links{
+            color: #888888;
+            text-decoration: none;
+        }
+</mj-style>
+    <mj-style inline="inline">
+        .icon-size{
+            max-width: 150px;
+            padding: 40px 0 30px;
+        }
+    </mj-style>
+</mj-head>
+    <mj-body background-color="#f2f2f2">
+    <mj-section padding="0 " background-color="#ffffff">
+        <mj-column>
+            <mj-image align="left" height="30px" width="220px" padding="26px 0px 10px 26px" src="https://i.postimg.cc/Bvf6vJqn/appletv-logo.png" alt="appletv-logo" />
+            <mj-image padding="0" src="https://i.postimg.cc/cJcs4Y9F/will-smith.jpg" alt="" href="https://c.apple.com/r?v=2&amp;a=o2CKfLM8dAL7lynfnyn7UE6%2FxJPfyrOzpWMB8FO%2BhsB3NXCX6rZ%2FAhsdbHu%2BEyT3%2F%2BIJcPRrVvFZjnh3N3Gdero9L9tMKR4zQlN2PSOQBjjbj7udO%2BP7zNgcoXNc5ir3xPnR%2BfapDnrGEt5EsMitYcDQMY%2F5Lw%2BjBRYQ2tnZ7FDukc4ywxiqSgfQf4W0OH55gScWk6ZDQy5bD1e0Ce3mdLZmtd4tZil5oV4OKMMet4L4Nxh8DPMjAnTzVrn4Zg96QcCxmTXiNUGwT8LS5xk9ddbiRbrP%2B4GViLbbuqgMquQ%3D"  />
+        </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+        <mj-column>
+            <mj-text align="center" font-family="system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Helvetica,Arial,sans-serif;" font-weight="600" font-size="40px" line-height="44px">
+                “A strong, fierce,<br>
+                heartfelt movie.” <br>
+                -The Guardian
+            </mj-text>
+            <mj-button  background-color="#0070c9" width="198px" height="40px" border-radius="4px">
+                Watch on Apple TV+
+            </mj-button>
+        </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+        <mj-column>
+            <mj-image padding="0" src="https://i.postimg.cc/RCpZH7M8/she-said.jpg" alt="" />
+        </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+        <mj-column>
+            <mj-text align="center" font-family="system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Helvetica,Arial,sans-serif;" font-weight="600px" font-size="32px" line-height="32px" letter-spacing="0.004em">
+                Carey Mulligan and Zoe Kazan <br>
+                revisit the rousing birth of #MeToo.
+            </mj-text>
+            <mj-text align="center" font-weight="500" font-size="16px" >
+                
+                <a style="text-decoration:none" href="">Rent now</a>
+            </mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+        <mj-column>
+            <mj-image padding="0" src="https://i.postimg.cc/VNwf84RS/xmas.jpg" alt="" />
+        </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+        <mj-column>
+            <mj-text align="center" font-family="system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Helvetica,Arial,sans-serif;" font-weight="400;font-size:17px;color:#333333;line-height:25px;letter-spacing:-0.022em">
+                Cozy up with classic movies and TV shows for kids and grown-ups alike.
+            </mj-text>
+            <mj-text align="center" font-weight="500" font-size="16px" >
+                <a style="text-decoration:none" href="">Explore the collection</a>
+            </mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+        <mj-column>
+            <mj-image padding="0" src="https://i.postimg.cc/J0F7CL6m/little-america.jpg" alt="" />
+        </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+        <mj-column>
+            <mj-text align="center" font-family="system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Helvetica,Arial,sans-serif;" font-weight="600" font-size="28px" line-height="40px">
+                The immigrant anthology series<br>
+                returns for a new season <br>
+                on Apple TV+.
+            </mj-text>
+            <mj-text align="center" font-weight="500" font-size="16px" >
+                <a style="text-decoration:none" href="">Watch all Episodes</a>
+            </mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+        <mj-column>
+            <mj-image padding="0" src="https://i.postimg.cc/15g5c8Xz/triangle-of.jpg" alt="" />
+        </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+        <mj-column>
+            <mj-text align="center" font-family="system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Helvetica,Arial,sans-serif;" font-weight="500" font-size="28px" line-height="40px">
+                Celebrity culture gets deliciously<br>
+                skewered in this absurd satire.
+                
+            </mj-text>
+            <mj-text align="center" font-weight="500" font-size="16px" >
+                
+                <a style="text-decoration:none" href="">Rent now</a>
+            </mj-text>
+        </mj-column>
+    </mj-section>
+    <mj-include path="./components/single-line.mjml" />
+        <mj-section background-color="#ffffff">
+            <mj-column>
+                <mj-text font-weight="400px; font-size:17px; color:#333333; " align="center" line-height="25px" letter-spacing="-0.022em" font-family="system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Helvetica,Arial,sans-serif;">
+                Everything you watch. <br>
+                All in one app.    
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0" background-color="#ffffff">
+            <mj-column >
+                <mj-image padding="0" width="100px" src="https://i.postimg.cc/sXwDKS5M/a-tv.png" alt="" />
+                <mj-button  background-color="#0070c9" width="140px" height="15px" border-radius="4px">
+                Learn More
+            </mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-include path="./components/single-line.mjml" />
+        <mj-section padding="0" background-color="#ffffff">
+        <mj-column padding="0">
+            <mj-image padding-top="0" src="https://i.postimg.cc/c4V1DdtB/watch.jpg" alt="" />
+        </mj-column>
+    </mj-section>
+    <mj-include path="./components/footer.mjml" />
+    
+    
+        
+    </mj-body>
+</mjml>

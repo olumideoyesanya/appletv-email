@@ -1,0 +1,6 @@
+<!-- single-line -->
+<mj-section background-color="#ffffff">
+            <mj-column>
+            <mj-divider border-color='#dfdfdf' />  
+            </mj-column>
+        </mj-section>
